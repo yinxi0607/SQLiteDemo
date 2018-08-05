@@ -35,4 +35,10 @@
         android:text="删除数据"
         android:onClick="click"/>
 
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lv_01">
+    </ListView>
+
 </LinearLayout>
